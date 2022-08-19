@@ -6,5 +6,4 @@ export function fetchCountries(nameCountry) {
         }
         return response.json();
       })
-    
 }
